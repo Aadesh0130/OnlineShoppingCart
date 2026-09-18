@@ -1,2 +1,2 @@
 The basic information of the user is here.
-Discount and payment features have been successfully integrated
+Discount and payment features have been successfully integrated.
