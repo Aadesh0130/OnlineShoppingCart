@@ -1,1 +1,2 @@
 The basic information of the user is here.
+The payemnt feature is updated
